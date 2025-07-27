@@ -11,7 +11,7 @@
 4. Configure store details under *Settings > Business Profile*  
 
 ### 2. Quick Tour  
-Tap the 🎓 **Interactive Tutorial** button on the dashboard to explore key features.  
+Tap the  **Interactive Tutorial** button on the dashboard to explore key features.  
 
 ---
 
