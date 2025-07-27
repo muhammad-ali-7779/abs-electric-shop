@@ -4,7 +4,7 @@
 ## 🏁 Getting Started  
 
 
-### 2. First-Time Setup  
+### 1. First-Time Setup  
 1. Launch the app  
 2. Select your language  
 3. Connect to your backend (or use offline mode)  
@@ -143,14 +143,14 @@ Problem: App crashes on launch
 </div>
 
 ---
-
+SSS
 **🎉 Congratulations!** You're now ready to streamline your electrical retail business with Electric Store Pro.  
 
 *Last Updated: 2025-06-27*  
 
 
 <div align="center">
-  <img src="https://via.placeholder.com/150/3B82F6/FFFFFF?text=ESP" width="80">
+  //<img src="https://via.placeholder.com/150/3B82F6/FFFFFF?text=ESP" width="80">
   <p><em>The complete solution for electrical retailers</em></p>
 </div>  
 
