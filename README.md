@@ -10,7 +10,7 @@
 3. Connect to your backend (or use offline mode)  
 4. Configure store details under *Settings > Business Profile*  
 
-### 3. Quick Tour  
+### 2. Quick Tour  
 Tap the 🎓 **Interactive Tutorial** button on the dashboard to explore key features.  
 
 ---
